@@ -1,0 +1,2 @@
+# networksetup4mac
+适合使用mac本并且经常切换网络环境的同学使用
